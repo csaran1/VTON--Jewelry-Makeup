@@ -1,7 +1,5 @@
 # VTON--Jewelry-Makeup
 
-Note: THe Code files are in the Master Branch
-
 Description about the Project:
 This project introduces a unified Virtual Try-On Platform that integrates both necklace placement and makeup transfer into a single framework. The system leverages MediaPipe for facial landmark detection, which ensures precise localization of facial features and neck regions for accurate placement of neckpieces. For makeup transfer, the EleGANt deep learning model is employed, as it is designed to achieve high-quality and natural-looking style transfer while preserving the texture and details of the original face. By combining these two components, the platform provides a seamless and realistic virtual try-on experience.
 
